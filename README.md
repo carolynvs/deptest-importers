@@ -6,5 +6,6 @@ This repo contains testdata for the dep importers:
 * Semver branch with non-HEAD commits: `v2`
 * Semver tag on the non-default branch, not HEAD: `v2.0.0-alpha1 (347760b50204948ea63e531dd6560e56a9adde8f)`
 * Multiple semver tags that match a caret constraint: `v1.0.2 (788963efe22e3e6e24c776a11a57468bb2fcd780)`, `v1.0.3 (f637de64b98a0c6dd2d8ea70c6c7dc75f24af952)`
+* Untagged revision, not HEAD: `dbb4d971f45d414b34a230426d90e30ba7a92dcc`
 * Subpackages (`./subpkgA`, `./subpkgB`).
 * External dependencies (`./subpkgA` -> `github.com/sdboyer/deptest`).
