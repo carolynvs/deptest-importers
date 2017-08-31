@@ -1,0 +1,3 @@
+package subpkgB
+
+func main() {}
