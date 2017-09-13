@@ -1,5 +1,5 @@
 package main
 
-import _ "github.com/carolynvs/deptest-importer/subpkgB"
+import _ "github.com/carolynvs/deptest-importers/subpkgB"
 
 func main() {}
